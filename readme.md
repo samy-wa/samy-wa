@@ -53,7 +53,7 @@ Passionate about leveraging **modern technologies** to deliver efficient, scalab
 I’m always open to new projects, collaborations, or just chatting about tech!
 
 - LinkedIn: [Samuel Wakuma Taye](https://www.linkedin.com/in/samuel-wakuma-taye/)  
-- Email: `your.email@example.com`
+- Email: Samuel.Wakuma.Taye@gmail.com
 
 Feel free to explore my repositories and reach out—I’m happy to connect!
 
