@@ -1,62 +1,113 @@
-# Hi, I'm Samuel Wakuma 👋
+Hi, I'm Samuel Wakuma 👋
 
-Welcome to my GitHub profile!  
-I’m an **Experienced Full Stack Developer** with **6+ years of expertise** in designing, developing, and deploying **enterprise-grade systems and APIs**.  
+Welcome to my GitHub profile!
 
-I specialize in building **scalable and secure solutions** using **ASP.NET Core, C#, SQL Server, and Microsoft Azure**, with strong experience in **cloud-native architectures, microservices, and container orchestration using Kubernetes**.  
+I’m an experienced Full-Stack Software Engineer (6+ years) specializing in designing, developing, and deploying enterprise-grade, scalable systems and APIs.
 
-Skilled in developing **RESTful APIs**, integrating **complex payment gateways**, and implementing compliance standards such as **PCI-DSS** and **IATA NDC certification**.  
+My core expertise is in ASP.NET Core, C#, SQL Server, and Microsoft Azure, with hands-on experience building cloud-native, microservices-based architectures and deploying them using Docker and Kubernetes.
 
-Proficient in **C#, JavaScript, SQL, JSON, XML, and Flutter**, with a solid background in **database design, optimization, and performance tuning**.  
-Adept at the **full software development life cycle (SDLC)**, from requirements analysis to production deployment, with a focus on **reliability, security, and high availability**.  
+I have strong experience in:
 
-Passionate about leveraging **modern technologies** to deliver efficient, scalable, and business-driven solutions. 🚀
+Building secure, high-performance RESTful APIs
 
----
+Integrating complex local & international payment gateways
 
-## 🛠 Professional Skills
+Implementing industry standards such as PCI-DSS and IATA NDC certification
 
-- **Programming Languages**: C#, Java, SQL, TypeScript  
-- **Frameworks & Technologies**: ASP.NET Core, MVC, Node.js, Microsoft Bot Framework, Kubernetes  
-- **Databases**: MS SQL Server, MySQL, MongoDB  
-- **Cloud & Platforms**: Microsoft Azure, Docker, Kubernetes  
-- **Tools & DevOps**: Visual Studio, Azure DevOps (VSTS), Git, SQL Server Management Studio, Postman, Jira  
-- **Specialized Expertise**: Payment Gateway Integration (Local & International), IATA NDC Certification, PCI-DSS & GDPR Compliance  
-- **Methodologies**: Agile Software Development, CI/CD, Unit & Integration Testing, Microservices Architecture  
+Designing and optimizing high-availability database systems
 
----
+I’m comfortable working across the entire SDLC, from requirements analysis and system design to production deployment and monitoring, with a strong focus on reliability, security, and performance.
 
-## 🚀 What I’ve Been Working On
+🚀 Passionate about using modern technologies to deliver business-driven, scalable solutions.
 
-- **SBSeries** – A curated Spring Boot series *(September 2025)*  
-- **DoteNet** – Sample .NET libraries showcasing best practices *(April 2025)*  
-- **CurrencyConverter** – A C# console library/tool for currency conversion *(April 2025)*  
-- **socialloginchallenge** – Java-based social login implementation *(February 2025)*  
-- **LogFileMonitorService** – A C# service for monitoring log files *(June 2024)*  
-- **AgentSpecification** – A Java implementation focused on specification patterns *(June 2023)*  
-- **conFusionServer** – A JavaScript-based server for educational purposes *(March 2023)*  
-- **ejtos-react_budget_app** & **uqwxd-react_labs** – React-based learning templates *(March 2023)*  
-- **ivy** – A Python-driven unified ML framework *(November 2022)*  
-- **Finance** – HTML project for finance-themed UI and layouts *(June 2022)*
+🛠 Technical Skills
+💻 Programming Languages
 
----
+C#, Java, TypeScript, SQL
 
-## 📊 GitHub Stats
+⚙️ Frameworks & Technologies
 
-![Samy-wa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-wa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-wa&layout=compact&theme=radical)
+ASP.NET Core, MVC, Node.js
 
----
+Microsoft Bot Framework
 
-## 📬 Get in Touch
+Microservices & Distributed Systems
 
-I’m always open to new projects, collaborations, or just chatting about tech!
+🗄 Databases
 
-- LinkedIn: [Samuel Wakuma Taye](https://www.linkedin.com/in/samuel-wakuma-taye/)  
-- Email: Samuel.Wakuma.Taye@gmail.com
+Microsoft SQL Server
 
-Feel free to explore my repositories and reach out—I’m happy to connect!
+MySQL
 
----
+MongoDB
 
-⭐ From [samy-wa](https://github.com/samy-wa)
+☁️ Cloud & Platforms
+
+Microsoft Azure
+
+Docker & Kubernetes
+
+🔧 Tools & DevOps
+
+Visual Studio, Git
+
+Azure DevOps (VSTS)
+
+Postman, SSMS
+
+Jira
+
+🔐 Specialized Expertise
+
+Payment Gateway Integrations (Local & International)
+
+PCI-DSS & GDPR Compliance
+
+IATA NDC Certification
+
+📐 Methodologies
+
+Agile / Scrum
+
+CI/CD Pipelines
+
+Unit & Integration Testing
+
+Microservices Architecture
+
+🚀 Featured Projects
+
+SBSeries — Curated Spring Boot learning series (Sep 2025)
+
+DoteNet — Sample .NET libraries demonstrating best practices (Apr 2025)
+
+CurrencyConverter — C# currency conversion tool (Apr 2025)
+
+socialloginchallenge — Java-based social login implementation (Feb 2025)
+
+LogFileMonitorService — C# service for log file monitoring (Jun 2024)
+
+AgentSpecification — Java implementation of the Specification pattern (Jun 2023)
+
+conFusionServer — JavaScript server for educational purposes (Mar 2023)
+
+React Labs — React learning templates (Mar 2023)
+
+ivy — Python-based unified ML framework (Nov 2022)
+
+Finance — HTML/CSS finance-themed UI project (Jun 2022)
+
+📊 GitHub Activity
+
+
+
+
+📬 Let’s Connect
+
+I’m open to collaboration, freelance work, and full-time opportunities, or simply exchanging ideas about software engineering.
+
+💼 LinkedIn: Samuel Wakuma Taye
+
+📧 Email: Samuel.Wakuma.Taye@gmail.com
+
+⭐ Thanks for stopping by — feel free to explore my repositories!
