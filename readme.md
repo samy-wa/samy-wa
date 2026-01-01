@@ -106,7 +106,7 @@ Finance — HTML/CSS finance-themed UI project (Jun 2022)
 
 I’m open to collaboration, freelance work, and full-time opportunities, or simply exchanging ideas about software engineering.
 
-💼 LinkedIn: Samuel Wakuma Taye
+💼 LinkedIn: [Samuel Wakuma Taye] (https://www.linkedin.com/in/samuel-wakuma-taye/)
 
 📧 Email: Samuel.Wakuma.Taye@gmail.com
 
